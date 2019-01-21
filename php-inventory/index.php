@@ -9,13 +9,13 @@ require_once('globals.inc.php');
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<TITLE>Personal Inventory - Main</TITLE>
+		<TITLE>Mamba Inventory - Main</TITLE>
 		<LINK REL="stylesheet" href="src/less/bootstrap/dist/css/bootstrap.css">
 		<link rel="stylesheet" href="src/less/bootstrap/dist/css/bootstrap-theme.css">
 	</HEAD>
 	<BODY>
 	<div class="container">
-		<H1>Personal Inventory</H1>
+		<H1>Mamba Inventory</H1>
 
 		<P>
 			<A HREF="item.php" class="btn btn-default" role="button">New Item</A>

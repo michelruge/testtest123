@@ -10,7 +10,7 @@ require_once('globals.inc.php');
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<TITLE>Personal Inventory - Add/Edit Item</TITLE>
+		<TITLE>Mamba Inventory - Add/Edit Item</TITLE>
 		<LINK REL="stylesheet" href="src/less/bootstrap/dist/css/bootstrap.css">
 		<link rel="stylesheet" href="src/less/bootstrap/dist/css/bootstrap-theme.css">
 
